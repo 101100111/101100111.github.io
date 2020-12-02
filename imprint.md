@@ -2,34 +2,11 @@
 layout: page
 title: Datenschutzerklärung und Impressum
 ---
-## Datenschutzerklärung
-> Letzes Update: 01.12.2020
-
-Der Schutz Ihrer persönlichen Daten ist mir Herbert Dirnberger ein besonderes persönliches Anliegen. Ich verarbeite ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen und informiere Sie hier über die wichtigsten Aspekte der Datenverarbeitung im Rahmen meiner Website.
-
-**Rechtsgrundlage:** EU DSGVO, Datenschutz-Anpassungsgesetz 2018,
-Datenschutz-Deregulierungs-Gesetz 2018
-
-### Verantwortlicher und Kontakt
-Ich, Herbert Dirnberger, bin der Verantwortliche von dirnberger.digital e.U. und für diese Datenschutzerklärung zuständig ist. Sie erreichen mich unter folgenden Kontaktdaten zu Fragen des Datenschutzes.
-
-![](/images/ddvcard.png)
-
-**Hinweis:** Sollte ich Sie nicht persönlich kennen, benötige ich einen eindeutigen Nachweis ihrer Identität, um keine Datenschutzverletzung zu begehen.
-
-### Verzicht auf Cookies, Web-Analyse und Tracking
-Cookies sind kleine Textdateien, die mit Hilfe des Browsers auf Ihrem Endgerät abgelegt werden, um ihren Browser beim nächsten  Besuchwiederzuerkennen. Beim Aufruf der Webseite **http://dirnberger digital** werden durch ihren Browser **keinerlei Cookies** gespeichert.
-Serverseitig werden bis auf Widerruf **keine IP-Adressen** beim Besuch der Webseite http://dirnberger.digital gespeichert.
-Auf die Nutzung von **Webanalyse- bzw. Trackingdiensten** wird **verzichet**.
-
-### Betroffenenrechte
-Ihnen stehen grundsätzlich die Rechte auf Auskunft (Art 15 DSGVO), Berichtigung (Art 16 DSGVO), Löschung (Art 17 DSGVO), Einschränkung (Art 18 DSGVO), Datenübertragbarkeit (Art 20 DSGVO), Wideruf und Widerspruch(Art 21 DSGVO) zu. Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich bei der Aufsichtsbehörde beschweren. In Österreich ist dies die Datenschutzbehörde.
-Diese Erklärung wurde nach dem Muster zur Erfüllung der datenschutzrechtlichen Informationspflichten für Webseiten
-Datenschutzerklärung, Stand: 18.12.2017, der WKO erstellt.
-
 ## Impressum - Informationspflicht lt. §5 E-Commerce Gesetz, §14 Unternehmensgesetzbuch bzw. §63 Gewerbeordnung und Offenlegungspflicht lt. §25 Mediengesetz
 Für den Inhalt dieser Homepage ist Herbert Dirnberger vom Unternehmen
-dirnberger.digital e.U. verantwortlich. Kontaktdaten siehe oben.
+dirnberger.digital e.U. verantwortlich. 
+
+![](/images/ddvcard.png)
 
 ### Firmendaten
 Inhaber: Ing. DI(FH) Herbert Dirnberger, MA -  Gründungsjahr: 2018 - Firmenwortlaut laut Firmenbuch): dirnberger.digital e.U. - Firmensitz: Amstetten - Firmenbuchnummer: 484126a - Firmenbuchgericht: Landesgericht St. Pölten - Rechtsform: Einzelunternehmer - GLN (der öffentlichen Verwaltung): 9110025701033
