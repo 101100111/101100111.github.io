@@ -2,9 +2,10 @@
 layout: page
 title: Datenschutzerklärung und Impressum
 ---
-## Impressum - Informationspflicht lt. §5 E-Commerce Gesetz, §14 Unternehmensgesetzbuch bzw. §63 Gewerbeordnung und Offenlegungspflicht lt. §25 Mediengesetz
-Für den Inhalt dieser Homepage ist Herbert Dirnberger vom Unternehmen
-dirnberger.digital e.U. verantwortlich. 
+## Impressum
+Informationspflicht lt. §5 E-Commerce Gesetz, §14 Unternehmensgesetzbuch bzw. §63 Gewerbeordnung und Offenlegungspflicht lt. §25 Mediengesetz
+
+Für den Inhalt dieser Homepage ist Herbert Dirnberger vom Unternehmen dirnberger.digital e.U. verantwortlich. 
 
 ![](/images/ddvcard.png)
 
