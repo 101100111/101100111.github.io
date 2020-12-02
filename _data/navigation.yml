@@ -2,14 +2,18 @@
 - title: Home
   url: /
   
-- title: >Hacks
-  url: /Hacks/
+- title: Hacks
+  url: /hacks/
 
 - title: Presentations
   url: /presentations/
+  
+- title: Publications
+  url: /publications/
+
 
 - title: Privacy
-  url: /Privacy/
+  url: /privacy/
 
 - title: Imprint
-  url: /Imprint/
+  url: /imprint/
