@@ -1,12 +1,18 @@
 # Site navigation links
 - title: Home
   url: /
+  
+- title: Hacks
+  url: /hacks/
+  
+- title: Actvities
+  url: /activities/
 
 - title: Presentations
   url: /presentations/
 
-- title: Resume
-  url: /resume/
+- title: Privacy
+  url: /Privacy/
 
-- title: Blog
-  url: /blog/
+- title: Imprint
+  url: /Imprint/
