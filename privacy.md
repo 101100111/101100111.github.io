@@ -2,7 +2,7 @@
 layout: page
 title: Datenschutzerklärung
 ---
-> Letzes Update: 01.12.2020
+> Letzes Update: 02.12.2020
 
 Der Schutz Ihrer persönlichen Daten ist mir Herbert Dirnberger ein besonderes persönliches Anliegen. Ich verarbeite ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen und informiere Sie hier über die wichtigsten Aspekte der Datenverarbeitung im Rahmen meiner Website.
 
